@@ -3,7 +3,7 @@
 Download git fom here: https://git-scm.com/downloads
 
 Open powershell and copy paste the following command:
-```git clone https://github.com/Phantasm702/Minecraft-mods.git $env:userprofile\Downloads\Minecraft-mods; Remove-Item $env:userprofile\Downloads\Minecraft-mods\.git -Recurse -Force; Remove-Item $env:userprofile\Downloads\minecraft-mods\README.md -Force```
+```git clone https://github.com/Phantasm702/Minecraft-mods.git $env:userprofile\Downloads\Minecraft-mods; Remove-Item $env:userprofile\Downloads\Minecraft-mods\.git -Recurse -Force; Remove-Item $env:userprofile\Downloads\Minecraft-mods\README.md -Force```
 Hit the enter key.
 Wait until the commands have finished executing.
 
